@@ -10,7 +10,7 @@
 ## Installation <a name="installation"></a>
 All we need are the Anaconda distribution of Python. Python should be version 3.*.
 
-## Project motivation <a name="motivation"> </a>
+## Project Motivation <a name="motivation"> </a>
 
 For this project, I used Airbnb data in Seattle in 2016 to answer following questions:
 1. When is the right time for a trip
