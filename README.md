@@ -8,7 +8,7 @@
 
 
 ## Installation <a name="installation"></a>
-All we need are the Anaconda distribution of Python. Python should version 3.*.
+All we need are the Anaconda distribution of Python. Python should be version 3.*.
 
 ## Project motivation <a name="motivation"> </a>
 
