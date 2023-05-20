@@ -1,3 +1,5 @@
+Visit here to https://medium.com/@nghiavuduc/four-compelling-insights-of-seattle-homestay-market-2cc061d7c1b2 the full analysis
+
 ### Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
