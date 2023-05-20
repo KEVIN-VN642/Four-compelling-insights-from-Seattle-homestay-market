@@ -1,4 +1,4 @@
-Visit following link to access the full analysis:
+Visit following link to access the full analysis:\n
 https://medium.com/@nghiavuduc/four-compelling-insights-of-seattle-homestay-market-2cc061d7c1b2 
 
 ### Table of Contents
