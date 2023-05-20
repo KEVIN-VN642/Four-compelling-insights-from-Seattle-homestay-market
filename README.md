@@ -1,4 +1,5 @@
-Visit here to https://medium.com/@nghiavuduc/four-compelling-insights-of-seattle-homestay-market-2cc061d7c1b2 the full analysis
+Visit following link to access the full analysis:
+https://medium.com/@nghiavuduc/four-compelling-insights-of-seattle-homestay-market-2cc061d7c1b2 
 
 ### Table of Contents
 1. [Installation](#installation)
